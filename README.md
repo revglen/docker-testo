@@ -1,0 +1,3 @@
+Docker Practice Projects
+
+This repository is a collection of small hands-on projects for learning Docker. Each project lives in its own folder with its own Dockerfile and covers a different topic: a simple Node.js web server on Ubuntu, a FastAPI app, and multistage builds with distroless images. The projects are practice exercises and are not meant for production use. This README is a placeholder and will be expanded later with setup and run instructions for each project.
